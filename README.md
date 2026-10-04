@@ -1,7 +1,5 @@
 # GPS Tracking System
 
-![Project Image](project_image.jpg)
-
 ## Overview
 
 This project involves creating a GPS tracking device using LoRa, Bluetooth, and GPS modules with an STM32 microcontroller. The device reads and processes GPS data, transmits it over LoRa to a receiving device, and also sends the data to a computer over Bluetooth. A Python application is used to display real-time GPS data on a map.
